@@ -1,3 +1,10 @@
+# APP controle-financeiro
+
+Projeto desenvolvido em REACT, com objetivo de mostrar um controle financeiro
+
+![2023-04-18](https://user-images.githubusercontent.com/109315349/232938765-04683309-5f3a-4cf7-a0f0-d9ff4ebf32d4.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
